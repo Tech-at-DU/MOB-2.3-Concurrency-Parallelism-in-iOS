@@ -54,19 +54,19 @@ Check the resources for helpful documentation!
 1. Get creative with your designs!
 1. Implement Apple Sign In
 
-## Rubric
+## Requirements
 
-You must score at least 70 points to pass the assignment. Breakdown of points below:
+Your app must have 3/4 of these features:
 
-1. **(15 points):** Code Quality: intuitive variable names, conventional casing, clear comments, modules are flexible and local, short line lengths, proper formatting.
-1. **(10 points)** Create a usable design that follows iOS UI Guidelines
-1. **(15 points)** Displays 10 most played artists
-1. **(15 points)** Tracks can be previewed
-1. **(15 points)** Each artist has a view that displays the top 10 tracks by the artist
-1. **(15 points)** Ability to favorite a top track, and view all favorites in a list in a separate view
-1. **(5 points)** Uses Spotify API/SDK
-1. **(5 points)** Evidence of using Time Profiler
-1. **(5 points)** Code on GitHub. Include a [README file](https://github.com/matiassingers/awesome-readme)
+1. Code Quality: intuitive variable names, conventional casing, clear comments, modules are flexible and local, short line lengths, proper formatting.
+1. Create a usable design that follows iOS UI Guidelines
+1. Displays 10 most played artists
+1. Tracks can be previewed
+1. Each artist has a view that displays the top 10 tracks by the artist
+1. Ability to favorite a top track, and view all favorites in a list in a separate view
+1. Uses Spotify API/SDK
+1. Evidence of using Time Profiler
+1. Code on GitHub. Include a [README file](https://github.com/matiassingers/awesome-readme)
 
 ## Resources
 - [Spotify API Docs](https://developer.spotify.com/documentation/web-api/)
